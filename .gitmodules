@@ -7,3 +7,6 @@
 [submodule "Name-Game-Gender-Prediction-using-Sound"]
 	path = Name-Game-Gender-Prediction-using-Sound
 	url = https://github.com/MennaHefny25/Name-Game-Gender-Prediction-using-Sound.git
+[submodule "A-New-Era-of-Data-Analysis-in-Baseball"]
+	path = A-New-Era-of-Data-Analysis-in-Baseball
+	url = https://github.com/MennaHefny25/A-New-Era-of-Data-Analysis-in-Baseball.git
