@@ -4,3 +4,6 @@
 [submodule "The-Android-App-Market-on-Google-Play"]
 	path = The-Android-App-Market-on-Google-Play
 	url = https://github.com/MennaHefny25/The-Android-App-Market-on-Google-Play.git
+[submodule "Name-Game-Gender-Prediction-using-Sound"]
+	path = Name-Game-Gender-Prediction-using-Sound
+	url = https://github.com/MennaHefny25/Name-Game-Gender-Prediction-using-Sound.git
