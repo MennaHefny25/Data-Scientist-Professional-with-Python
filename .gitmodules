@@ -10,3 +10,6 @@
 [submodule "A-New-Era-of-Data-Analysis-in-Baseball"]
 	path = A-New-Era-of-Data-Analysis-in-Baseball
 	url = https://github.com/MennaHefny25/A-New-Era-of-Data-Analysis-in-Baseball.git
+[submodule "A-Visual-History-of-Nobel-Prize-Winners"]
+	path = A-Visual-History-of-Nobel-Prize-Winners
+	url = https://github.com/MennaHefny25/A-Visual-History-of-Nobel-Prize-Winners.git
