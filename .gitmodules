@@ -10,3 +10,6 @@
 [submodule "Analyzing-Crime-in-Los-Angeles"]
 	path = Analyzing-Crime-in-Los-Angeles
 	url = https://github.com/MennaHefny25/Analyzing-Crime-in-Los-Angeles.git
+[submodule "Customer-Analytics-Preparing-Data-for-Modeling"]
+	path = Customer-Analytics-Preparing-Data-for-Modeling
+	url = https://github.com/MennaHefny25/Customer-Analytics-Preparing-Data-for-Modeling.git
