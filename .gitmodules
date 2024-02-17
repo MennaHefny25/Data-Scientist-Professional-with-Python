@@ -1,3 +1,6 @@
 [submodule "Investigating-Netflix-Movies"]
 	path = Investigating-Netflix-Movies
 	url = https://github.com/MennaHefny25/Investigating-Netflix-Movies.git
+[submodule "Exploring-NYC-Public-School-Test-Result-Scores"]
+	path = Exploring-NYC-Public-School-Test-Result-Scores
+	url = https://github.com/MennaHefny25/Exploring-NYC-Public-School-Test-Result-Scores.git
