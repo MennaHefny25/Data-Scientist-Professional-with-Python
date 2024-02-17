@@ -4,3 +4,6 @@
 [submodule "Exploring-NYC-Public-School-Test-Result-Scores"]
 	path = Exploring-NYC-Public-School-Test-Result-Scores
 	url = https://github.com/MennaHefny25/Exploring-NYC-Public-School-Test-Result-Scores.git
+[submodule "Visualizing-the-History-of-Nobel-Prize-Winners"]
+	path = Visualizing-the-History-of-Nobel-Prize-Winners
+	url = https://github.com/MennaHefny25/Visualizing-the-History-of-Nobel-Prize-Winners.git
