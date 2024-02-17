@@ -13,3 +13,6 @@
 [submodule "Customer-Analytics-Preparing-Data-for-Modeling"]
 	path = Customer-Analytics-Preparing-Data-for-Modeling
 	url = https://github.com/MennaHefny25/Customer-Analytics-Preparing-Data-for-Modeling.git
+[submodule "Exploring-Airbnb-Market-Trends"]
+	path = Exploring-Airbnb-Market-Trends
+	url = https://github.com/MennaHefny25/Exploring-Airbnb-Market-Trends.git
