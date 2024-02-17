@@ -7,3 +7,6 @@
 [submodule "Visualizing-the-History-of-Nobel-Prize-Winners"]
 	path = Visualizing-the-History-of-Nobel-Prize-Winners
 	url = https://github.com/MennaHefny25/Visualizing-the-History-of-Nobel-Prize-Winners.git
+[submodule "Analyzing-Crime-in-Los-Angeles"]
+	path = Analyzing-Crime-in-Los-Angeles
+	url = https://github.com/MennaHefny25/Analyzing-Crime-in-Los-Angeles.git
