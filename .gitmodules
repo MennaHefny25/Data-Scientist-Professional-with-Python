@@ -16,3 +16,6 @@
 [submodule "Exploring-Airbnb-Market-Trends"]
 	path = Exploring-Airbnb-Market-Trends
 	url = https://github.com/MennaHefny25/Exploring-Airbnb-Market-Trends.git
+[submodule "Modeling-Car-Insurance-Claim-Outcomes"]
+	path = Modeling-Car-Insurance-Claim-Outcomes
+	url = https://github.com/MennaHefny25/Modeling-Car-Insurance-Claim-Outcomes.git
