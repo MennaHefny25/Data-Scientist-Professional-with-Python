@@ -19,3 +19,6 @@
 [submodule "Modeling-Car-Insurance-Claim-Outcomes"]
 	path = Modeling-Car-Insurance-Claim-Outcomes
 	url = https://github.com/MennaHefny25/Modeling-Car-Insurance-Claim-Outcomes.git
+[submodule "Predictive-Modeling-for-Agriculture"]
+	path = Predictive-Modeling-for-Agriculture
+	url = https://github.com/MennaHefny25/Predictive-Modeling-for-Agriculture.git
